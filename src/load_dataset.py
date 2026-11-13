@@ -8,6 +8,7 @@ and saves samples for the rest of the project.
 from datasets import load_dataset
 import pandas as pd
 import re
+import os
 
 # Load the IMDB dataset from the Hugging Face datasets library
 dataset = load_dataset("stanfordnlp/imdb")
@@ -51,5 +52,7 @@ sample_train = clean_text(sample_train)
 sample_test = clean_text(sample_test)
 
 # Save the cleaned samples to CSV files
-sample_train.to_csv("sample_train.csv", index=False)
-sample_test.to_csv("sample_test.csv", index=False)
+os.makedirs("data", exist_ok=True)
+
+sample_train.to_csv("data/sample_train.csv", index=False)
+sample_test.to_csv("data/sample_test.csv", index=False)
