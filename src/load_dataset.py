@@ -11,7 +11,7 @@ import re
 import os
 
 # Load the IMDB dataset from the Hugging Face datasets library
-dataset = load_dataset("stanfordnlp/imdb")
+dataset = load_dataset("")
 
 # Check the structure of the dataset
 print(dataset)
