@@ -2,6 +2,11 @@ classificar sentimentos
 aplicação em reddit, telegram
 marcar cores - vermelho para negativo
 
+passo 1 - carregar o dataset
+passo 2 - explorar o dataset
+passo 3 - criar as samples
+passo 4 - correr com o gemini
+
 PARA O RELATÓRIO:
 Sentiment distribution per split (% of emotion occurrences):
            train (43410)  validation (5426)  test (5427)
