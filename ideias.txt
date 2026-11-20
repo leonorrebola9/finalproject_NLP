@@ -114,3 +114,36 @@ negative            1  1        20        2         1
 neutral             4  0         5       12         4
 positive            1  0         4        7        13
 
+Few-shot:
+Accuracy: 55.0% (55/100)
+
+Correct answers per sentiment:
+  positive   15/25  (60%)
+  negative   22/25  (88%)
+  ambiguous   7/25  (28%)
+  neutral    11/25  (44%)
+
+True sentiment (rows) vs model's answer (columns):
+prediction  ambiguous  negative  neutral  positive
+sentiment                                         
+ambiguous           7         8        9         1
+negative            1        22        2         0
+neutral             0         9       11         5
+positive            0         5        5        15
+
+Chain-of-Thought:
+Accuracy: 54.0% (54/100)
+
+Correct answers per sentiment:
+  positive   18/25  (72%)
+  negative   18/25  (72%)
+  ambiguous   8/25  (32%)
+  neutral    10/25  (40%)
+
+True sentiment (rows) vs model's answer (columns):
+prediction  ambiguous  invalid  negative  neutral  positive
+sentiment                                                  
+ambiguous           8        0         7        7         3
+negative            0        1        18        4         2
+neutral             4        0         6       10         5
+positive            0        0         5        2        18
