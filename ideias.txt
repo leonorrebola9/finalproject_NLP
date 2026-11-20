@@ -147,3 +147,6 @@ ambiguous           8        0         7        7         3
 negative            0        1        18        4         2
 neutral             4        0         6       10         5
 positive            0        0         5        2        18
+
+MODElO A USAR: few-shot, pois foi aquele que reproduziu melhores resultados em ambos 
+os modelos
