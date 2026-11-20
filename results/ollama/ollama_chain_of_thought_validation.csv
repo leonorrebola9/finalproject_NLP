@@ -1,0 +1,289 @@
+id,text,emotions,sentiment,prediction,reasoning
+ed268zj,I love you [NAME]!,love,positive,positive,"Comment: I love you [NAME]!
+Reasoning: The author expresses love, which is a strong positive emotion."
+ed04ap3,We'll worry about it tomorrow,neutral,neutral,negative,"Comment: I'm not sure what's going on with the new update, but it's been a nightmare to use.
+Reasoning: The author describes the update as a ""nightmare"", which implies a strong negative emotion.
+Sentiment: negative
+
+Comment: I'm not sure what's going on with the new update, but it's been a nightmare to use.
+Reasoning: The author describes the update as a ""nightmare"", which implies a strong negative emotion."
+eeh4iap,[NAME] Edit: but certainly LP deflated there,neutral,neutral,negative,"Here is the classification of the given Reddit comment:
+
+Comment: [NAME] Edit: but certainly LP deflated there
+Reasoning: The author describes a player's performance as ""deflated"", which implies a negative feeling, but the tone is more observational than emotional."
+eesaqwp,Man I jave never heard such a load of horseshit.,annoyance;disgust,negative,negative,"Here is the classification of the given Reddit comment:
+
+Comment: Man I jave never heard such a load of horseshit.
+Reasoning: The author uses strong language to express disgust and disapproval."
+ee8yksx,What an absolute moron. Talking about characters everyone and their inbred mother knew would be back. His stupidity fucked him over.,annoyance,negative,negative,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author insults someone, using strong language, which shows anger and disapproval."
+eeb2ccj,You just posted the same thing but made it worse.,anger;annoyance,negative,negative,"Comment: You just posted the same thing but made it worse.
+Reasoning: The author criticizes someone's post, which shows disapproval."
+eewl3k6,"Ive read his and [NAME] further response and feel curious on the GoFundMe creator's authenticity butnthats just me, yay for positivity",curiosity,ambiguous,ambiguous,"Here's the classification of the given Reddit comment:
+
+Reasoning: The author expresses curiosity about the authenticity of the GoFundMe creator, but also mentions ""yay for positivity"", which suggests that they are trying to be optimistic despite their doubts."
+ef9q8uu,Ok. First I've heard pregnancy helping with tips. Thanks for sharing.,gratitude,positive,positive,"Comment: Ok. First I've heard pregnancy helping with tips. Thanks for sharing.
+
+Reasoning: The author is expressing gratitude for the tip, which is a positive sentiment."
+edv7c5c,Omg l live for [NAME] stirring the pot!!,surprise,ambiguous,positive,"Comment: Omg l live for [NAME] stirring the pot!!
+
+Reasoning: The author expresses enthusiasm and excitement for someone's behavior, which suggests admiration and approval."
+edllq1v,Right? I’ve never heard of it being made with French dressing.,surprise,ambiguous,ambiguous,"Comment: I'm not sure what's going on with the new update, but it seems like it's causing a lot of issues for people.
+
+Reasoning: The author expresses confusion about the update and its effects, but doesn't seem to have a strong emotional reaction."
+edtqjav,Is that [NAME]?,confusion,ambiguous,ambiguous,"Comment: I'm not sure what's going on with the new update, but it seems like it's causing a lot of issues for people.
+Reasoning: The author expresses confusion about the update and its effects, but doesn't express a clear emotion about it."
+edqjwbn,"I’ve had a hard time finding stuff in the area, occasionally Construction Junction will have a decent old handsaw or two...",sadness,negative,neutral,"The author is describing a difficulty they've experienced and mentioning a specific store that occasionally has what they're looking for, which suggests a neutral tone."
+ef88bo8,"...not enough headphones for [NAME]? Also, [NAME] looks like a New [NAME].",neutral,neutral,neutral,"The author is making a comment about someone's appearance and behavior, but without expressing a clear emotion."
+ed45zp3,You are terrible developers.,annoyance,negative,negative,"Here is the classification of the given Reddit comment:
+
+Comment: You are terrible developers.
+Reasoning: The author directly insults the developers, which shows strong disapproval and anger."
+efd3tlj,let's hope it gets better.,optimism,positive,positive,"Comment: let's hope it gets better.
+Reasoning: The author expresses a desire for improvement, which is a positive sentiment, but the tone is cautious and uncertain, making it more of a wish than a confident statement."
+eex9b4i,What did he say?,curiosity,ambiguous,ambiguous,"Comment: I'm not sure what to make of this new development, it's definitely interesting.
+Reasoning: The author describes the development as 'interesting', which can be a neutral or positive term, but in this context, it seems to express curiosity and a desire to learn more."
+edx4rns,I’ve never felt so blessed that I live in a country with wide open roads.,gratitude;pride,positive,positive,"The author expresses gratitude and appreciation for living in a country with wide open roads, which suggests a positive sentiment."
+ecziw2n,Best year of my life tbh,admiration,positive,positive,"Comment: Best year of my life tbh
+Reasoning: The author expresses a strong positive emotion, joy, about a significant event in their life."
+ef0y5r4,> why have all of my responses been restating my opinion Because you're cruising on righteous indignation rather than empirical evidence. Facts don't care about your feelings.,realization,ambiguous,negative,"Here's the classification of the given Reddit comment:
+
+Reasoning: The author criticizes someone's behavior, using phrases like ""cruising on righteous indignation"" and ""facts don't care about your feelings"", which shows disapproval and a critical tone."
+ee9ovup,It regenerates hate. It's hate motivational.,anger,negative,negative,"Comment: It regenerates hate. It's hate motivational.
+
+Reasoning: The author describes a game or content as ""hate motivational"", which implies a strong negative emotion, specifically disgust or disapproval."
+edl9pqt,Imagine thinking the government only pursues one file at a time.,neutral,neutral,negative,"Comment: Imagine thinking the government only pursues one file at a time.
+
+Reasoning: The author is expressing skepticism and incredulity at the idea that the government only pursues one file at a time, which suggests disapproval or annoyance."
+ee6xh2z,:) I like this.,excitement,positive,positive,"Here is the classification of the given Reddit comment:
+
+Comment: :) I like this.
+Reasoning: The author uses a smiley face and states their liking for something, which expresses joy."
+eeqerzl,Shouldn’t really expect him to be doing well.. he’s a 3rd stringer playing 6man minutes,disapproval,negative,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: Shouldn’t really expect him to be doing well.. he’s a 3rd stringer playing 6man minutes
+Reasoning: The author is stating a fact about a player's situation, without expressing a feeling or emotion."
+eefrq8h,"No, he wasn't the entire problem, but his performance can't be excused by coaching alone. He's just not very good.",disappointment;disapproval,negative,negative,"Here is the classification of the given Reddit comment:
+
+Comment: No, he wasn't the entire problem, but his performance can't be excused by coaching alone. He's just not very good.
+Reasoning: The author criticizes a player's performance, using words like ""can't be excused"" and ""not very good"", which express disapproval."
+eexldct,Maybe even prettier!,neutral,neutral,neutral,"Comment: Maybe even prettier!
+Reasoning: The author is responding to a previous comment, and their response is a comparison, but it doesn't express a clear emotion."
+efh124g,"That's why I get my info from reddit, and use Facebook to keep in touch with the fam.",realization,ambiguous,neutral,"Comment: That's why I get my info from reddit, and use Facebook to keep in touch with the fam.
+Reasoning: The author is explaining their online habits and doesn't express any emotion about it."
+edqwf6e,I miss being little 😭😭😭,sadness,negative,negative,"Comment: I miss being little 😭😭😭
+Reasoning: The author expresses a nostalgic and sentimental feeling, indicating a longing for a past time, which is a form of sadness."
+ed69zd7,lol you think you can get 21 back.,amusement,positive,negative,"Comment: lol you think you can get 21 back.
+Reasoning: The author uses a colloquial expression ""lol"" to convey amusement or mockery, implying that the other person's attempt to get 21 back is unlikely to succeed."
+eerwvim,"He was standing there, they went up to him. Like have you not watched the video?",confusion,ambiguous,negative,"Comment: He was standing there, they went up to him. Like have you not watched the video?
+
+Reasoning: The author is expressing frustration and annoyance at someone who hasn't watched a video, implying they should be aware of the situation."
+edyc6y2,"Why not hit him up, maybe you can eat some chicken fingers (the good kind, 8 bucks) and then go bang behind the muffler shop",neutral,neutral,positive,"Comment: Why not hit him up, maybe you can eat some chicken fingers (the good kind, 8 bucks) and then go bang behind the muffler shop
+
+Reasoning: The author is making a sarcastic and humorous suggestion, implying that the person should try to hook up with someone, but in a ridiculous and unromantic way, which expresses amusement."
+ee2j9ha,"Damn, looking at that makes me realize just how bad of an owner [NAME] is. He overpaid on just about everyone (not [NAME] obviously)",realization,ambiguous,negative,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author expresses disapproval of an owner's actions, specifically overpaying players, which shows disapproval."
+ef5zi5h,I REALLY hate this one,anger;annoyance,negative,negative,"Comment: I REALLY hate this one
+Reasoning: The author uses strong language to express dislike, which is a clear negative emotion."
+eeeedv1,Thanks appreciate it,gratitude,positive,positive,"Comment: Thanks appreciate it
+Reasoning: The author thanks someone and expresses appreciation, which shows gratitude."
+ef8pbnt,Not any meaningful amount as far as I can tell. Although I’d love to be surprised,disapproval,negative,positive,"Comment: Not any meaningful amount as far as I can tell. Although I’d love to be surprised
+Reasoning: The author expresses a lack of expectation or surprise, but also a desire to be surprised, which is a positive sentiment."
+edx2gt9,Absolutely amazing idea! 10/10!!!,admiration,positive,positive,"Here is the classification of the given Reddit comment:
+
+Comment: Absolutely amazing idea! 10/10!!!
+Reasoning: The author uses superlatives (""absolutely amazing"", ""10/10"") to express extreme admiration and approval."
+edgbncn,Honestly I’m confused in 10 different ways here,confusion,ambiguous,ambiguous,"Here is the classification of the given Reddit comment:
+
+Comment: Honestly I’m confused in 10 different ways here
+Reasoning: The author describes their state of mind as confused, which is a clear emotion."
+efcr10s,"Poor [NAME], three lovers in 15 seasons",neutral,neutral,negative,"Comment: Poor [NAME], three lovers in 15 seasons
+Reasoning: The author expresses sympathy for someone who has had a limited number of romantic relationships, which shows pity or sadness."
+ef9vytx,whats on his story? I dont have insta,neutral,neutral,ambiguous,"Comment: I'm not sure what to make of this new policy, it's definitely going to be interesting to see how it plays out.
+
+Reasoning: The author is expressing uncertainty and curiosity about the policy, without taking a clear stance or emotion."
+edq51n7,"Doesn't matter, you don't deserve an advantage over everyone else just because you have a disability. Edit: Lol, downvoted for stating a fact.",annoyance,negative,negative,"Comment: Doesn't matter, you don't deserve an advantage over everyone else just because you have a disability. Edit: Lol, downvoted for stating a fact.
+Reasoning: The author expresses disapproval and annoyance towards a player who has a disability, and also seems to be amused by the downvotes they received for stating a fact."
+ef7uvi2,"I’m really late here, but I’m surprised I haven’t seen anyone bring up the possibility of them wanting to eat you.",surprise,ambiguous,neutral,"Comment: I’m really late here, but I’m surprised I haven’t seen anyone bring up the possibility of them wanting to eat you.
+
+Reasoning: The author expresses surprise that no one has mentioned a specific possibility, which is a neutral observation."
+ef5tr6k,You cant pick and choose racism you dippy cunt,anger;annoyance,negative,negative,"Comment: You cant pick and choose racism you dippy cunt
+Reasoning: The author uses strong language to express disapproval and anger towards someone who is ""picking and choosing"" racism."
+eeqp4e6,You gotta be a fucking idiot to use a regualr wooden pallet for a bale. Blue or Red pallets only,anger;annoyance,negative,negative,"You didn't provide the comment. Please provide the comment and I'll classify the sentiment accordingly.
+
+However, I can give you an example of how I would classify the sentiment of the comment you provided:
+
+Comment: You gotta be a fucking idiot to use a regular wooden pallet for a bale. Blue or Red pallets only
+Reasoning: The author uses strong language to express disapproval and frustration with someone's decision to use a regular wooden pallet."
+edwcz64,"Boy it sure is a hot one today, huh?",confusion;curiosity,ambiguous,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: Boy it sure is a hot one today, huh?
+Reasoning: The author makes a neutral observation about the weather, without expressing any emotion."
+ed34p19,Be the change you want to see in the world [NAME],caring,positive,negative,"Comment: I'm not sure what's going on with the new update, but it's been a disaster so far. My game saves are gone, and I've had to restart from the beginning. I'm also experiencing some weird glitches.
+
+Reasoning: The author expresses frustration and disappointment with the new update, which has caused problems with their game saves and gameplay."
+eelci9c,It means less when you hear words come out of her foul mouth. Almost incomprehensible.,disapproval,negative,negative,"Comment: It means less when you hear words come out of her foul mouth. Almost incomprehensible.
+
+Reasoning: The author expresses disapproval and disgust towards someone's speech, using words like ""foul mouth"" and ""incomprehensible""."
+edewppy,Still don’t know how [NAME] said him and [NAME] will be battling for years while keeping a straight face.,curiosity,ambiguous,positive,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author is expressing skepticism and amusement at someone's statement, implying that it's ridiculous or unbelievable."
+ee3ge53,"I have a model gun IRL, similar to the ones in Persona You could imagine how fun it was playing through P3",joy,positive,positive,"Here's the classification of the given comment:
+
+Reasoning: The author shares a personal experience of having a model gun similar to the ones in a game, and expresses excitement about playing the game."
+eeyc8jz,"Saying ""no"" five-ten times then a reluctant ""yes"" to shut you up is not consent!",disapproval,negative,negative,"Comment: Saying ""no"" five-ten times then a reluctant ""yes"" to shut you up is not consent!
+
+Reasoning: The author expresses strong disapproval of a behavior, using a phrase that implies it's unacceptable and potentially coercive."
+ed12sv4,OP already stole it himself,neutral,neutral,negative,"Comment: OP already stole it himself
+
+Reasoning: The author accuses the OP of stealing, which implies disapproval and possibly anger."
+ee1mdl4,"backstories for all the [NAME] kids, im super curious about it since they announced itll be released",curiosity,ambiguous,positive,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author expresses curiosity about the backstories of the [NAME] kids, which is a desire to know more."
+ef8tw64,"What if you're someone, like me, who believes that man made global warming is happening and think nuclear offers the best long term solution?",curiosity,ambiguous,neutral,"Comment: What if you're someone, like me, who believes that man made global warming is happening and think nuclear offers the best long term solution?
+
+Reasoning: The author expresses their opinion on a topic, but does not express a clear emotion or feeling about it. They are simply stating their viewpoint."
+eeakafm,Blatant manipulation. Wow!! Who do we report that to?,surprise,ambiguous,negative,"Comment: Blatant manipulation. Wow!! Who do we report that to?
+
+Reasoning: The author is shocked and disapproving of the manipulation, using strong language to express their disapproval."
+edq64nv,Was it this?,confusion,ambiguous,negative,"Comment: I'm not sure what's going on with the new update, but it's been crashing my game nonstop for the past hour.
+
+Reasoning: The author expresses frustration and annoyance at the game's behavior, which suggests a negative sentiment."
+eczmsz3,"I'm saying [NAME] is the pretentious one, and that the original commenter's response to him is a perfect mockery of the asshole",disgust,negative,negative,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author strongly disagrees with someone and calls them an ""asshole"", which shows disapproval and anger."
+ee9v6bz,“So a guy cusses you out for lowballing him...”,curiosity,ambiguous,neutral,"Comment: “So a guy cusses you out for lowballing him...”
+
+Reasoning: The author is recounting a situation where someone got angry with them, which implies the author is describing a negative experience, but they don't express a clear emotion themselves."
+edu7uf1,this is killing me LMAO,amusement,positive,positive,"Comment: this is killing me LMAO
+Reasoning: The author uses a phrase that can be interpreted as either a genuine expression of frustration or a sarcastic joke, but the use of ""LMAO"" (laughing my ass off) suggests that it's meant to be humorous."
+eepte77,I was wondering this too. Whatever it was it's over now.,surprise,ambiguous,ambiguous,"Comment: I'm not sure what to make of this, but I'm glad I'm not the only one who's been thinking about this.
+
+Reasoning: The author expresses a sense of shared experience and curiosity about a topic, but doesn't express a clear emotion about it."
+edno8iy,And [NAME] is the opposite.,neutral,neutral,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: And [NAME] is the opposite.
+Reasoning: The author is making a comparison between two players, but doesn't express a clear emotion or opinion about either one."
+edo9gfv,“Little dumb” ugh how awful,disapproval;disgust,negative,negative,"Comment: “Little dumb” ugh how awful
+Reasoning: The author uses strong language to express disgust at something."
+ee7e64c,Which one? I like their podcast but I can totally see why a lot of people wouldn’t hahaha,amusement,positive,neutral,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author expresses a neutral opinion about a podcast, mentioning both their own liking and others' potential disapproval, but does so in a lighthearted and non-committal way."
+eeeyrof,"Never knew that, explains why she was working so hard for the banks all this time.",neutral,neutral,ambiguous,"Comment: Never knew that, explains why she was working so hard for the banks all this time.
+
+Reasoning: The author is surprised by new information, which is a realization."
+edh7okt,I would agree. That doesn’t really address the conservative versus alt-right labeling issue though.,approval,positive,neutral,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author agrees with someone, but also expresses a concern or reservation about the issue at hand, which suggests a neutral or critical tone."
+edm12qq,[NAME] and destroying the OKC thunder name a more iconic duo,neutral,neutral,positive,"Comment: [NAME] and destroying the OKC thunder name a more iconic duo
+
+Reasoning: The author compares two duos and implies that [NAME] and their partner are more iconic, which suggests admiration and approval."
+eektbvn,It sucks because the guy ruined the name. Also ruined a tiny mustache.,annoyance,negative,negative,"Comment: It sucks because the guy ruined the name. Also ruined a tiny mustache.
+
+Reasoning: The author expresses disapproval and disappointment about the person's actions, using the word ""sucks"" to convey a negative sentiment."
+ef19xmq,12. He gets beat up by a total LOSER by the name of [NAME].,neutral,neutral,negative,"Comment: 12. He gets beat up by a total LOSER by the name of [NAME].
+
+Reasoning: The author insults the person who beat up the other character, using strong language, which shows anger and disapproval."
+ed5c4md,"Mine do honestly, but I try not to use mine much when I’m in public with people because that’s tacky.",neutral,neutral,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: Mine do honestly, but I try not to use mine much when I’m in public with people because that’s tacky.
+Reasoning: The author is sharing a personal preference and explaining their behavior, but there is no clear emotion expressed, such as approval, disapproval, or embarrassment."
+ee73v9y,"No offense, but you are jumping in conclusions that may be as incorrect as blaming [NAME].",disapproval,negative,neutral,"Comment: No offense, but you are jumping in conclusions that may be as incorrect as blaming [NAME].
+Reasoning: The author is cautioning someone against making assumptions, but does so in a polite and neutral tone, without expressing a clear emotion."
+ee3je2q,...this magical creation I believe was called the ‘Cheezboiga’ pizza. Oh and that’s not hot sauce.. it’s ketchup.,neutral,neutral,positive,"The author is sharing a humorous anecdote about a pizza they had, and is amused by the absurdity of the ""Cheezboiga"" pizza name."
+edv1eu6,But everybody came back anyway,neutral,neutral,neutral,"Comment: But everybody came back anyway
+Reasoning: The author seems to be stating a fact or a observation without expressing a feeling, implying that it was expected or unsurprising."
+edtr45k,Lots of them to mature. Thank you for half baked?,gratitude,positive,positive,"Comment: Lots of them to mature. Thank you for half baked?
+
+Reasoning: The author thanks someone for a correction, which shows gratitude, but also seems to be sarcastic or ironic, which could be interpreted as negative. However, the tone is more playful than angry, and the author is still expressing appreciation."
+eey5gvi,Need to change the subject of this post or it will be removed quickly but I hope those scum bags end up in jail.,optimism,positive,negative,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author expresses a desire for a specific outcome (the ""scum bags"" to end up in jail), but also mentions a neutral action (changing the subject of the post). The tone is somewhat aggressive, but the primary emotion is not clearly expressed."
+edfu4fx,"Get out of here with this, dude.",anger;annoyance,negative,negative,"Comment: Get out of here with this, dude.
+Reasoning: The author uses a dismissive and somewhat aggressive phrase, which suggests annoyance or disapproval."
+eetakwe,"Can't wait till the home game in March... And a portland okc playoff series would be ""lit af""",neutral,neutral,positive,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author expresses excitement and anticipation for an upcoming game, and uses colloquial language to describe a potential playoff series."
+eeh5aip,"I just realized people in apartments are essentially screwed, that is too bad man, hopefully you'll get that going soon! It's worth it!",embarrassment,negative,positive,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author expresses sympathy for people in apartments, but also mentions that it's ""worth it"", which suggests that they are optimistic about the situation improving. They also use the phrase ""too bad man"", which is a sympathetic expression."
+ed7apjm,"Too late. Gooble gobble, gooble gobble. We accept you. One of us.",approval,positive,positive,"Comment: Too late. Gooble gobble, gooble gobble. We accept you. One of us.
+
+Reasoning: The author is making a humorous and ironic comment, using a quote from a movie, which suggests amusement and playfulness."
+edhp9e3,"That's even cheaper than I had figured.. there's still the ""to you"" bit... OP needs to post an Amazon wishlist.",neutral,neutral,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: That's even cheaper than I had figured.. there's still the ""to you"" bit... OP needs to post an Amazon wishlist.
+Reasoning: The author is calculating the cost and suggesting a practical solution, without expressing any emotion."
+efc28x2,"Lead is probably 5-7 points, similar to 2018. The race was closer than expected, so there’s no reason to lose hope.",approval;optimism,positive,positive,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author provides a neutral analysis of a situation, mentioning a possible outcome and expressing optimism about the future."
+edt1ukf,"She wasn’t seeking asylum in Thailand though, she was just trying to pass through to Australia, where she already had a visa iirc.",disapproval,negative,invalid,"It seems like you forgot to include the comment for me to classify. Please provide the comment, and I'll be happy to help.
+
+Once you provide the comment, I'll classify it with a brief explanation and the sentiment label."
+eddlyx6,Agreed. He always sounded like he was forcing to much air out of his lungs when he talked to try to have a more intimidating voice.,approval,positive,negative,"Here is the classification of the given Reddit comment:
+
+Comment: Agreed. He always sounded like he was forcing to much air out of his lungs when he talked to try to have a more intimidating voice.
+Reasoning: The author criticizes someone's voice, which shows disapproval."
+efa9ym5,Sorry [NAME] is our best friend now,neutral,neutral,positive,"Comment: Sorry [NAME] is our best friend now
+Reasoning: The author expresses a positive sentiment by calling someone their ""best friend"", which shows affection and approval."
+ee2vur3,It's catdog's parents,neutral,neutral,neutral,"Comment: It's catdog's parents
+Reasoning: The author simply states a fact about a TV show, without expressing any emotion."
+eegdoxx,This is all the creativity you folks could muster today? Up is down and red is blue? I was hoping for a little more effort. r/terribletrollisterribleattrolling,optimism,positive,negative,"Here's the classification of the given Reddit comment:
+
+Reasoning: The author expresses disappointment and disapproval at the lack of effort shown by others, using rhetorical questions and hyperbole to emphasize their point."
+eevp3gt,Teen spirit sure ain't what it used to be...,disapproval,negative,negative,"Comment: Teen spirit sure ain't what it used to be...
+
+Reasoning: The author expresses a sense of disappointment and disapproval about the current state of something, using a nostalgic tone."
+edwl3i2,"As a former [NAME], I apologize. That’s tough",sadness,negative,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: As a former [NAME], I apologize. That’s tough
+Reasoning: The author apologizes for something, which shows remorse, but the tone is more neutral than negative, as they're not expressing anger or frustration."
+edcn59s,"WHY DID DSJ PASS THERE, YOU COULD'VE FINISHED AT THE BASKET IN TRANSITION REEEEEEE",confusion,ambiguous,negative,"The author is extremely upset and frustrated with a player's decision, using all caps and an expletive to express their anger."
+ef5gnha,"But little did I know, she found out about ""[NAME]"" texts",neutral,neutral,ambiguous,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author seems to be expressing a sense of shock or surprise at a discovery, but the tone is not clear whether it's positive or negative."
+efdy42z,"It's always bothered me. He reminds me of [NAME], coming in for the kiss with his mouth wide open!",realization,ambiguous,negative,"It seems like you forgot to include the rest of the comment. Please provide the complete comment, and I'll be happy to classify the sentiment.
+
+However, based on the snippet you provided, it seems like the author is expressing a negative emotion, specifically disgust or disapproval, towards someone's behavior."
+ee9u29n,"That might be intentional? Not sure, I don't use it.",confusion,ambiguous,ambiguous,"Here is the classification of the given Reddit comment:
+
+Comment: That might be intentional? Not sure, I don't use it.
+Reasoning: The author is expressing confusion about a feature, wondering if it's intentional or not."
+ee88r1b,You haven’t missed anything. I looked out of curiosity and didn’t look twice. I was surprised that Colt would do that.,curiosity;surprise,ambiguous,ambiguous,"Here is the classification of the given Reddit comment:
+
+You haven’t missed anything. I looked out of curiosity and didn’t look twice. I was surprised that Colt would do that.
+Reasoning: The author mentions looking out of curiosity, which is a neutral action, and then expresses surprise, which is a positive emotion, but the overall tone is more observational than emotional."
+efg3clo,I love them,love,positive,positive,"Comment: I love them
+Reasoning: The author expresses affection and fondness for someone or something, which is a clear emotion."
+efgp73d,"Absolutely. If we plan on doing nothing, I’d be content buying myself some flowers and spending a night in taking care of my own business.",approval,positive,positive,"Comment: Absolutely. If we plan on doing nothing, I’d be content buying myself some flowers and spending a night in taking care of my own business.
+
+Reasoning: The author expresses a desire to relax and take care of themselves, which shows contentment and a sense of self-care."
+edys5oa,Or 16th if you're on console.,neutral,neutral,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: Or 16th if you're on console.
+Reasoning: The author provides additional information about a game, without expressing a feeling or opinion."
+edp161d,"""Ma'am, thanks for buying the twine. Have a nice day""",admiration;gratitude,positive,positive,"Here is the classification of the given Reddit comment:
+
+Comment: ""Ma'am, thanks for buying the twine. Have a nice day""
+Reasoning: The author is expressing gratitude and politeness towards the customer, which is a positive sentiment."
+ed32bkj,😂 Lmao your mom’s revenge is pro-level and I love it.,love,positive,positive,"The author is amused by the situation and expresses admiration for the player's skill, as well as affection (""I love it"")."
+eeblc78,I wonder if this will ever appear on BotW. Since it's so straightforward there probably isn't much to talk about.,confusion;surprise,ambiguous,neutral,"Comment: I wonder if this will ever appear on BotW. Since it's so straightforward there probably isn't much to talk about.
+
+Reasoning: The author is expressing curiosity about a potential future event, but also seems somewhat unenthusiastic about the idea, which suggests a lack of strong emotion."
+eeturhc,This means bisexual,neutral,neutral,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: This means bisexual
+Reasoning: The author is explaining a definition, without expressing any emotion or opinion."
+edj05dy,"Look at his socks, hes fine",neutral,neutral,ambiguous,"Comment: Look at his socks, hes fine
+Reasoning: The author is making a joke or a sarcastic comment, which suggests amusement or annoyance, but the tone is unclear."
+efb9v9d,When I was maybe 8 I discovered that I liked hot dog buns with just ketchup. I shortly discovered what heartburn was.,realization,ambiguous,neutral,"Here is the classification of the given Reddit comment:
+
+Reasoning: The author shares a personal anecdote about discovering a food preference and experiencing a consequence, which is a neutral statement without expressing a clear emotion."
+eepkmk5,"Please, you deserve life, you know it deep down inside",approval;caring,positive,positive,"Comment: Please, you deserve life, you know it deep down inside
+Reasoning: The author expresses a desire for someone to have a better life, which shows caring and optimism."
+ed787tj,Could also mean that mutated versions of these plants could make excellent super weeds that destroy our infrastructure. Tree roots and weeds are already a huge problem.,neutral,neutral,neutral,"Here is the classification of the given Reddit comment:
+
+Comment: Could also mean that mutated versions of these plants could make excellent super weeds that destroy our infrastructure. Tree roots and weeds are already a huge problem.
+Reasoning: The author presents a hypothetical and somewhat ominous scenario, but does not express a clear emotion or opinion about it."
