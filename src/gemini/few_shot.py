@@ -2,9 +2,9 @@
 gemini/few_shot.py
 
 Few-shot prompt: the definitions prompt plus 2 real examples per label,
-taken from the GoEmotions training set (never from validation or test).
+taken from the GoEmotions TRAINING set (never from validation or test).
 
-Saves the predictions to results/gemini_few_shot_validation.csv and shows
+Saves the predictions to results/gemini/few_shot_validation.csv and shows
 the accuracy (overall and per sentiment).
 '''
 
@@ -18,7 +18,7 @@ import time
 # Project root = two levels above src/gemini/
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 DATA_DIR = os.path.join(ROOT, "data")
-RESULTS_DIR = os.path.join(ROOT, "results")
+RESULTS_DIR = os.path.join(ROOT, "results", "gemini")  # each model has its own folder
 
 df = pd.read_csv(os.path.join(DATA_DIR, "sample_validation.csv"))
 load_dotenv()  # Load environment variables from .env file
@@ -91,7 +91,7 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
 # Save the results
 df["prediction"] = predictions
 os.makedirs(RESULTS_DIR, exist_ok=True)
-df.to_csv(os.path.join(RESULTS_DIR, f"gemini_{STRATEGY}_validation.csv"), index=False)
+df.to_csv(os.path.join(RESULTS_DIR, f"{STRATEGY}_validation.csv"), index=False)
 
 # Overall accuracy
 correct = df["prediction"] == df["sentiment"]
