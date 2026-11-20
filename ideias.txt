@@ -96,3 +96,21 @@ ambiguous           1         7       16         1
 negative            1        18        6         0
 neutral             0         8       13         4
 positive            0         4       10        11
+
+Zero-shot com definições:
+Accuracy: 55.0% (55/100)
+
+Correct answers per sentiment:
+  positive   13/25  (52%)
+  negative   20/25  (80%)
+  ambiguous  10/25  (40%)
+  neutral    12/25  (48%)
+
+True sentiment (rows) vs model's answer (columns):
+prediction  ambiguous  i  negative  neutral  positive
+sentiment                                            
+ambiguous          10  0         7        6         2
+negative            1  1        20        2         1
+neutral             4  0         5       12         4
+positive            1  0         4        7        13
+
