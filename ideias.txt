@@ -8,10 +8,20 @@ passo 3 - criar as samples
 passo 4 - correr com o gemini
 
 PARA O RELATÓRIO:
-Sentiment distribution per split (% of emotion occurrences):
-           train (43410)  validation (5426)  test (5427)
-emotions                                                
-positive            39.2               39.8         38.0
-negative            21.8               22.3         22.4
-ambiguous           11.2               10.3         11.4
-neutral             27.8               27.7         28.2
+Zero-shot
+Accuracy: 46.0% (46/100)
+
+Correct answers per sentiment:
+  positive   13/25  (52%)
+  negative   21/25  (84%)
+  ambiguous   1/25  (4%)
+  neutral    11/25  (44%)
+  
+True sentiment (rows) vs Gemini's answer (columns):
+prediction  ambiguous  negative  neutral  positive
+sentiment                                         
+ambiguous           1        10       12         2
+negative            1        21        3         0
+neutral             3         7       11         4
+positive            3         5        4        13
+
