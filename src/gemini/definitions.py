@@ -73,7 +73,7 @@ for i, (_, row) in enumerate(df.iterrows(), start=1):
 # Save the results
 df["prediction"] = predictions
 os.makedirs(RESULTS_DIR, exist_ok=True)
-df.to_csv(os.path.join(RESULTS_DIR, f"{STRATEGY}_validation.csv"), index=False)
+df.to_csv(os.path.join(RESULTS_DIR, f"gemini_{STRATEGY}_validation.csv"), index=False)
 
 # Overall accuracy
 correct = df["prediction"] == df["sentiment"]
