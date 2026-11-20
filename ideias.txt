@@ -16,7 +16,7 @@ Correct answers per sentiment:
   negative   21/25  (84%)
   ambiguous   1/25  (4%)
   neutral    11/25  (44%)
-  
+
 True sentiment (rows) vs Gemini's answer (columns):
 prediction  ambiguous  negative  neutral  positive
 sentiment                                         
@@ -25,3 +25,19 @@ negative            1        21        3         0
 neutral             3         7       11         4
 positive            3         5        4        13
 
+Zero-shot com definições de cada semtimento
+Accuracy: 59.0% (59/100)
+
+Correct answers per sentiment:
+  positive   17/25  (68%)
+  negative   20/25  (80%)
+  ambiguous  16/25  (64%)
+  neutral     6/25  (24%)
+
+True sentiment (rows) vs Gemini's answer (columns):
+prediction  ambiguous  amused  amusement  negative  neutral  positive
+sentiment                                                            
+ambiguous          16       0          0         5        3         1
+negative            0       0          0        20        2         3
+neutral             6       1          2         4        6         6
+positive            1       0          0         5        2        17
