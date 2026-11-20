@@ -55,5 +55,6 @@ def make_sample(split, n_per_sentiment):
     print(f"Saved {len(sample)} comments ({n_per_sentiment} per sentiment) to data/sample_{split}.csv")
 
 
-make_sample("validation", n_per_sentiment=30)  # 120 comments to improve the prompts
+
+make_sample("validation", n_per_sentiment=25)  # 100 comments to improve the prompts
 make_sample("test", n_per_sentiment=60)        # 240 comments for the final evaluation
