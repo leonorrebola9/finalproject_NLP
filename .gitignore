@@ -1,0 +1,5 @@
+# Secret API key
+.env
+
+# Python cache files
+__pycache__/
