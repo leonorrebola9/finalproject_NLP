@@ -6,7 +6,7 @@ but Gemini first explains its reasoning in one or two sentences and only
 then gives the final label. The reasoning is saved in the CSV (useful for
 the error analysis).
 
-Saves the predictions to results/gemini_chain_of_thought_validation.csv and shows
+Saves the predictions to results/gemini/chain_of_thought_validation.csv and shows
 the accuracy (overall and per sentiment).
 '''
 
@@ -20,7 +20,7 @@ import time
 # Project root = two levels above src/gemini/
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 DATA_DIR = os.path.join(ROOT, "data")
-RESULTS_DIR = os.path.join(ROOT, "results")
+RESULTS_DIR = os.path.join(ROOT, "results", "gemini")  # each model has its own folder
 
 df = pd.read_csv(os.path.join(DATA_DIR, "sample_validation.csv"))
 load_dotenv()  # Load environment variables from .env file
