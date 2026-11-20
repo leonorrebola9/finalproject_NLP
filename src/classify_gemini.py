@@ -11,7 +11,7 @@ import pandas as pd
 import os
 import time
 
-# Project root = one level above src/                                  # NEW
+# Project root = one level above src/
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 DATA_DIR = os.path.join(ROOT, "data")
 RESULTS_DIR = os.path.join(ROOT, "results")
@@ -21,7 +21,7 @@ load_dotenv()  # Load environment variables from .env file
 client = genai.Client()  # finds GEMINI_API_KEY automatically         
 
 MODEL = 'gemini-3.5-flash-lite'                                       
-
+PAUSE = 4.5  # seconds between requests (free tier: max 15 requests per minute)
 
 def classify(comment):                                                
     response = client.models.generate_content(
@@ -37,13 +37,17 @@ def classify(comment):
 predictions = []            # keep the answers
 for i, (_, row) in enumerate(df.iterrows(), start=1):
     print(f"[{i}/{len(df)}] Sending...")                              
-    try:
-        prediction = classify(row["text"])
-    except Exception as e:          # if the API fails (e.g. rate limit),
-        print(f"  Error: {e}. Waiting 30 seconds and trying again...")  # wait and try once more
-        time.sleep(30)
-        prediction = classify(row["text"])
+    for attempt in range(3):        # if the API fails (e.g. rate limit),
+        try:                        # wait 1 minute and try again (max 3 times)
+            prediction = classify(row["text"])
+            break
+        except Exception as e:
+            print(f"  Error ({str(e)[:40]}...). Waiting 60 seconds...")
+            time.sleep(60)
+    else:
+        prediction = "error"        # gave up on this comment
     predictions.append(prediction)
+    time.sleep(PAUSE)               # respect the requests-per-minute limit
     print(f"  Gemini: {prediction}  |  True: {row['sentiment']}")     # compare with sentiment
 
 df["prediction"] = predictions      # save the results
