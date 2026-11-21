@@ -186,3 +186,17 @@ ambiguous          37      0        19        2         2
 negative            3      1        46        8         2
 neutral            12      0        18       20        10
 positive            5      0        10        5        40
+
+
+COMPARAÇÃO DE RESULTADOS:
+                model           prompt     sample   n  accuracy  f1_macro  positive  negative  ambiguous  neutral  out_of_format
+Gemini 3.5 flash-lite        zero_shot validation 100      46.0      0.42        52        84          4       44              0
+Gemini 3.5 flash-lite      definitions validation 100      59.0      0.58        68        80         64       24              3
+Gemini 3.5 flash-lite         few_shot validation 100      60.0      0.59        68        80         64       28              2
+Gemini 3.5 flash-lite chain_of_thought validation 100      59.0      0.58        68        80         56       32              0
+         Llama 3.1 8B        zero_shot validation 100      43.0      0.39        44        72          4       52              0
+         Llama 3.1 8B      definitions validation 100      55.0      0.55        52        80         40       48              1
+         Llama 3.1 8B         few_shot validation 100      55.0      0.53        60        88         28       44              0
+         Llama 3.1 8B chain_of_thought validation 100      54.0      0.53        72        72         32       40              1
+Gemini 3.5 flash-lite         few_shot       test 240      59.6      0.59        67        77         62       33              1
+         Llama 3.1 8B         few_shot       test 240      48.3      0.46        60        80         28       25              0
