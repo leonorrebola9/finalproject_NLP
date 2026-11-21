@@ -8,6 +8,7 @@ passo 3 - criar as samples
 passo 4 - correr com o gemini
 
 PARA O RELATÓRIO:
+VALIDAÇÃO
 =================GEMINI===========================
 Modelo: gemini-3.5-flash-lite
 Zero-shot:
@@ -150,3 +151,38 @@ positive            0        0         5        2        18
 
 MODElO A USAR: few-shot, pois foi aquele que reproduziu melhores resultados em ambos 
 os modelos
+
+TESTE
+=================OLLAMA===========================
+Accuracy: 48.3% (116/240)
+
+Correct answers per sentiment:
+  positive   36/60  (60%)
+  negative   48/60  (80%)
+  ambiguous  17/60  (28%)
+  neutral    15/60  (25%)
+
+True sentiment (rows) vs model's answer (columns):
+prediction  ambiguous  negative  neutral  positive
+sentiment                                         
+ambiguous          17        20       14         9
+negative            0        48        8         4
+neutral             0        30       15        15
+positive            0        16        8        36
+
+=================GEMINI===========================
+Accuracy: 59.6% (143/240)
+
+Correct answers per sentiment:
+  positive   40/60  (67%)
+  negative   46/60  (77%)
+  ambiguous  37/60  (62%)
+  neutral    20/60  (33%)
+
+True sentiment (rows) vs Gemini's answer (columns):
+prediction  ambiguous  mixed  negative  neutral  positive
+sentiment                                                
+ambiguous          37      0        19        2         2
+negative            3      1        46        8         2
+neutral            12      0        18       20        10
+positive            5      0        10        5        40
